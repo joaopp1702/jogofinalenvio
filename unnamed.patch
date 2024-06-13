@@ -1,0 +1,11 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+new file mode 100644
+--- /dev/null	(revision b81a44a7fa0e7c98475d9daa5c7a87213daad192)
++++ b/README.md	(revision b81a44a7fa0e7c98475d9daa5c7a87213daad192)
+@@ -0,0 +1,1 @@
++"# jogo2048" 
